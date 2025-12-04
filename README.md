@@ -44,5 +44,5 @@ Previously, I was a **Data Scientist** at **Yale Program on Climate Change Commu
 
 ## Interests & Expertise
 
-Advanced statistical modeling and Bayesian inference, scalable ML systems, geospatial statistics/remote sensing, computational social science/NLP, high-performance Linux-based workflows.
+Advanced statistical modeling and Bayesian inference, scalable ML systems, geospatial statistics/remote sensing, computational social science/NLP, Unix/Linux-based automation.
 
