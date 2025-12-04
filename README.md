@@ -17,15 +17,18 @@ Previously, I was a **Data Scientist** at **Yale Program on Climate Change Commu
 ### Programming Languages & Visualization Tools
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7CBF?style=flat&logo=arcgis&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-009DDC?style=flat&logo=rstudio&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-0033A0?style=flat&logo=ibm&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A5F8A?style=flat&logo=stata&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-52B0E7?style=flat&logo=quarto&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
 
 ### Cloud/Warehousing 
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)
