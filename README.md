@@ -28,10 +28,11 @@ Previously, I was a **Data Scientist** at **Yale Program on Climate Change Commu
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ### Cloud/Warehousing 
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
+
 
 
 ### DevOps/Environment
