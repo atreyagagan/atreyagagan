@@ -4,7 +4,7 @@
 
 ## About
 
-I am a Data Scientist specializing in applied machine learning, statistical modeling, geospatial data science, and computational social science. 
+I am a Data Scientist in the Clean Energy and Decarbonization space specializing in applied machine learning, statistical modeling, geospatial data science, and computational social science. 
 
 My current role is **Data Scientist II** at **Energy Solutions** where I mostly work on decarbonization in the US energy grid. 
 
