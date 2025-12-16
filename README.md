@@ -1,5 +1,3 @@
-# Gagan Atreya
-
 ---
 
 I am a Data Scientist in the Clean Energy/Decarbonization sector who specializes in applied machine learning, statistical modeling, geospatial data science, and computational social science. 
