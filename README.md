@@ -10,7 +10,8 @@ My current role is **Data Scientist II** at **Energy Solutions** where I mostly 
 
 Previously, I was a **Data Scientist** at **Yale Program on Climate Change Communication**, and before that I held various **Research Fellow/Data Scientist** roles at **Oxford University**, **George Washington University**, and **University of Minnesota** where I led and supported scientific, geospatial, survey, and text-analytic research across major global projects.
 
-My interests and expertise lie at the intersection of advanced statistical modeling and Machine Learning, Bayesian inference, geospatial statistics/remote sensing, computational social science/NLP, Unix/Linux-based automation.
+My broader interests and expertise lie at the intersection of advanced statistical modeling and Machine Learning, Bayesian inference, geospatial statistics/remote sensing, computational social science/NLP, Unix/Linux-based automation.
+
 ---
 
 ## Computing 
