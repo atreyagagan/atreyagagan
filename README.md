@@ -2,8 +2,6 @@
 
 ---
 
-## About
-
 I am a Data Scientist in the Clean Energy/Decarbonization sector who specializes in applied machine learning, statistical modeling, geospatial data science, and computational social science. 
 
 My current role is **Data Scientist II** at **Energy Solutions** where I mostly work on decarbonization in the US energy grid. 
@@ -13,8 +11,6 @@ Previously, I was a **Data Scientist** at **Yale Program on Climate Change Commu
 My broader interests and expertise lie at the confluence of advanced statistical modeling and Machine Learning, Bayesian inference, geospatial statistics/remote sensing, computational social science/NLP, and Unix/Linux-based automation.
 
 ---
-
-## Computing 
 
 ### Programming Languages & Visualization Tools
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
