@@ -16,6 +16,7 @@ My broader interests and expertise lie at the confluence of advanced statistical
 ![Shiny](https://img.shields.io/badge/Shiny-009DDC?style=flat&logo=rstudio&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-52B0E7?style=flat&logo=quarto&logoColor=white)
 
+
 <!-- ! ![Stata](https://img.shields.io/badge/Stata-1A5F8A?style=flat&logo=stata&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-0033A0?style=flat&logo=ibm&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
@@ -30,10 +31,7 @@ My broader interests and expertise lie at the confluence of advanced statistical
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
 
 
-
 ### DevOps/Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
