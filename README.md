@@ -2,8 +2,6 @@ I am a Data Scientist in the Clean Energy/Decarbonization sector who specializes
 
 My current role is **Data Scientist II** at **Energy Solutions** where I mostly work on decarbonization in the US energy grid. 
 
-Previously, I was a **Data Scientist** at **Yale Program on Climate Change Communication**, and before that I held various **Research Fellow/Data Scientist** roles at **Oxford University**, **George Washington University**, and **University of Minnesota** where I led and supported scientific, geospatial, survey, and text-analytic research across major global projects.
-
 My broader interests and expertise lie at the confluence of advanced statistical modeling and machine learning, Bayesian inference, geospatial statistics/remote sensing, computational social science/NLP, and reproducible computing, workflow automation and systems engineering in Unix/Linux environments.
 
 ### Programming Languages & Visualization Tools
