@@ -2,7 +2,7 @@ I am a Data Scientist in the Clean Energy/Decarbonization sector who specializes
 
 My current role is **Data Scientist II** at **Energy Solutions** where I mostly work on decarbonization in the US energy grid. 
 
-My broader interests and expertise lie at the confluence of advanced statistical modeling and machine learning, Bayesian inference, geospatial statistics/remote sensing, computational social science/NLP, and reproducible computing, workflow automation and systems engineering in Unix/Linux environments.
+My broader interests and expertise lie at the confluence of advanced statistical modeling and machine learning, survey statistics, Bayesian inference, geospatial statistics/remote sensing, computational social science/NLP, and reproducible computing, workflow automation and systems engineering in Unix/Linux environments.
 
 ### Programming Languages & Visualization Tools
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
